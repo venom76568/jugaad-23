@@ -1,5 +1,5 @@
 import iconecell from "../assets/icon.png";
-import fivenov from "../assets/5_Nov.webp";
+import fivenov from "../assets/8th.png";
 import clock from "../assets/clock.png";
 import jugaad from "../assets/jugaadnew.png";
 const experiences = [
@@ -10,7 +10,7 @@ const experiences = [
     iconBg: "black",
     // date: "25 October 2023",
     points: [
-      "INR 100 rupees will be handed over to each participating team on 5th Nov ,9 am.",
+      "INR 100 rupees will be handed over to each participating team on 8th Feb,9 am.",
     ],
   },
   {
