@@ -122,7 +122,7 @@ function Register() {
           <h2 className="text-2xl font-bold text-black mb-4">
             Registration Successful!
           </h2>
-          <p className="text-black">See you on 5th Nov at 9am </p>
+          <p className="text-black">See you on 8th Feb 10AM</p>
         </div>
       </div>
     );
