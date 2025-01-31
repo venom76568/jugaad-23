@@ -58,7 +58,7 @@ function Register() {
       }
       // Make the POST request to your backend
       const response = await axios.post(
-        "https://jugaadecell.onrender.com/api/register",
+        "https://jugad-23-bakend.onrender.com/api/register",
         userData
       ); // Adjust the URL as needed
 
